@@ -13,6 +13,9 @@
   <a href="https://www.npmjs.com/package/capacitor-voice-recorder"><img src="https://img.shields.io/npm/v/capacitor-voice-recorder" /></a>
 </p>
 
+## A fork
+This is a fork of the [original package](https://github.com/tchvu3/capacitor-voice-recorder)
+
 ## Maintainers
 
 | Maintainer | GitHub |

@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-voice-recorder",
+  "name": "capacitor-voice-recorder-pk",
   "version": "4.0.0",
   "description": "Capacitor plugin for voice recording",
   "main": "dist/plugin.cjs.js",
@@ -14,13 +14,13 @@
     "CapacitorVoiceRecorder.podspec"
   ],
   "author": {
-    "name": "Avihu Harush",
-    "email": "tchvu3@gmail.com"
+    "name": "Par Kat",
+    "email": "pkaterski@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tchvu3/capacitor-voice-recorder.git.git"
+    "url": "git+https://github.com/pkaterski/capacitor-voice-recorder.git.git"
   },
   "bugs": {
     "url": "https://github.com/tchvu3/capacitor-voice-recorder.git/issues"
